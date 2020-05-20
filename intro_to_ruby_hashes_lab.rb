@@ -4,6 +4,7 @@ def base_hash
   hash = {
     :railroads => {
       :pieces => 4,
+      :rent_in_dollars => {}
       
     }
   }
